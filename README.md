@@ -1,1 +1,1 @@
-bare-metal-k8s
+# Bare metal Kubernetes configurations
