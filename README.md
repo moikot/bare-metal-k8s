@@ -1,1 +1,1 @@
-# Bare metal Kubernetes configurations
+# Bare-metal Kubernetes configurations
